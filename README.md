@@ -461,6 +461,3 @@ This project was built as an academic final-year project for AI-powered misinfor
 
 ---
 
-<p align="center">
-  Built with ❤️ using <strong>Lovable</strong> · Powered by <strong>Google Gemini AI</strong>
-</p>

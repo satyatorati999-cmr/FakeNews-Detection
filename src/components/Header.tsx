@@ -10,11 +10,11 @@ const Header = () => {
         <div className="flex h-16 items-center justify-between">
           <Link to="/" className="flex items-center gap-3 group">
             <div className="relative">
-              <img src={logo} alt="VerityAI Logo" className="h-8 w-8 transition-transform duration-300 group-hover:scale-110" />
+              <img src={logo} alt="Satya Rama Krishna Torati Logo" className="h-8 w-8 transition-transform duration-300 group-hover:scale-110" />
               <div className="absolute inset-0 bg-primary/30 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </div>
             <span className="font-display text-lg font-semibold tracking-tight text-foreground">
-              VerityAI
+              Satya Rama Krishna Torati
             </span>
           </Link>
 

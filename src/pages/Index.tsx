@@ -73,7 +73,7 @@ const Index = () => {
       <footer className="border-t border-border/30 py-10 mt-auto relative z-10">
         <div className="container mx-auto px-4 text-center">
           <p className="font-display text-sm tracking-wider text-foreground/80 mb-2">
-            VerityAI
+            Satya Rama Krishna Torati
           </p>
           <p className="text-xs text-muted-foreground/50 font-body">
             Credibility Analysis Engine · Powered by Deep Learning · © {new Date().getFullYear()}

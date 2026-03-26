@@ -11,7 +11,7 @@ const CHAT_URL = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/chat-assista
 const ChatBot = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Msg[]>([
-    { role: "assistant", content: "👋 Hi! I'm **VerityAI Assistant**. Ask me anything about fake news detection, misinformation, or how our AI works!" },
+    { role: "assistant", content: "👋 Hi! I'm **Satya Rama Krishna Torati Assistant**. Ask me anything about fake news detection, misinformation, or how our AI works!" },
   ]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);

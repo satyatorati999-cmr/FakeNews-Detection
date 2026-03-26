@@ -25,7 +25,7 @@ serve(async (req) => {
       throw new Error("LOVABLE_API_KEY is not configured");
     }
 
-    const systemPrompt = `You are VerityAI, an expert fact-checking and news credibility analysis engine with 97.2% accuracy. You combine deep knowledge of misinformation patterns, logical fallacies, propaganda techniques, and scientific consensus to evaluate news articles.
+    const systemPrompt = `You are Satya Rama Krishna Torati, an expert fact-checking and news credibility analysis engine with 97.2% accuracy. You combine deep knowledge of misinformation patterns, logical fallacies, propaganda techniques, and scientific consensus to evaluate news articles.
 
 Your task: Analyze the provided text and return a JSON object with your assessment. Be rigorous, fair, and evidence-based.
 

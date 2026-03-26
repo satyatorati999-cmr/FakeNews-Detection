@@ -47,7 +47,7 @@ const UseCases = () => {
             Who <span className="text-gradient">Benefits</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto font-body">
-            From newsrooms to classrooms, VerityAI empowers anyone fighting misinformation.
+            From newsrooms to classrooms, Satya Rama Krishna Torati empowers anyone fighting misinformation.
           </p>
         </motion.div>
 

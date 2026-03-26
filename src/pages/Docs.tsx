@@ -41,11 +41,11 @@ const Docs = () => {
           <div className="mb-12">
             <Badge variant="secondary" className="mb-4">Technical Documentation</Badge>
             <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
-              How VerityAI Works
+              How Satya Rama Krishna Torati Works
             </h1>
             <p className="text-muted-foreground text-lg max-w-2xl">
               A complete technical breakdown of the AI model, dataset, verification methodology,
-              scoring system, and architecture powering VerityAI's credibility analysis engine.
+              scoring system, and architecture powering Satya Rama Krishna Torati's credibility analysis engine.
             </p>
           </div>
 

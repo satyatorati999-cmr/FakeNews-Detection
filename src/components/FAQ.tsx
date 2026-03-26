@@ -8,7 +8,7 @@ const faqs = [
     a: "Our model achieves 97.2% accuracy and a 96.8% F1 score, validated against the Kaggle Fake and Real News Dataset containing 44,898 labeled articles. However, no AI is perfect — always cross-reference critical information with multiple sources.",
   },
   {
-    q: "What AI model powers VerityAI?",
+    q: "What AI model powers Satya Rama Krishna Torati?",
     a: "We use Google Gemini 2.5 Flash with temperature set to 0.1 for highly deterministic, consistent outputs. The model processes structured prompts that evaluate text across 8 analytical dimensions.",
   },
   {
@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: "Can it detect deepfakes or images?",
-    a: "Currently, VerityAI focuses on text-based news analysis. Image and video deepfake detection is on our roadmap for future releases.",
+    a: "Currently, Satya Rama Krishna Torati focuses on text-based news analysis. Image and video deepfake detection is on our roadmap for future releases.",
   },
   {
     q: "What types of claims does it detect?",

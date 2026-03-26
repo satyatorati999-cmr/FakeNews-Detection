@@ -1,6 +1,6 @@
-# VerityAI — AI-Powered Fake News Detection System
+# Satya Rama Krishna Torati — AI-Powered Fake News Detection System
 
-![VerityAI](https://img.shields.io/badge/VerityAI-Fake%20News%20Detection-00d4ff?style=for-the-badge)
+![Satya Rama Krishna Torati](https://img.shields.io/badge/Satya%20Rama%20Krishna%20Torati-Fake%20News%20Detection-00d4ff?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.2%25-00ff88?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=for-the-badge&logo=typescript)
@@ -29,7 +29,7 @@
 
 ## 🎯 Project Overview
 
-VerityAI is a web-based fake news detection system designed to combat the growing threat of misinformation in digital media. The platform allows users to paste any news article or text, and within seconds receives a comprehensive credibility analysis powered by state-of-the-art AI.
+Satya Rama Krishna Torati is a web-based fake news detection system designed to combat the growing threat of misinformation in digital media. The platform allows users to paste any news article or text, and within seconds receives a comprehensive credibility analysis powered by state-of-the-art AI.
 
 ### Problem Statement
 
@@ -40,7 +40,7 @@ VerityAI is a web-based fake news detection system designed to combat the growin
 
 ### Solution
 
-VerityAI provides instant, AI-powered credibility analysis with transparent reasoning, enabling users to make informed decisions about the news they consume.
+Satya Rama Krishna Torati provides instant, AI-powered credibility analysis with transparent reasoning, enabling users to make informed decisions about the news they consume.
 
 ---
 

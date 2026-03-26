@@ -40,12 +40,12 @@ const HeroSection = () => {
           </div>
         </motion.div>
 
-        <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
+        <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold mb-4 leading-tight">
           <TypewriterText
-            text="Detect Fake News With 97% Accuracy"
+            text="AI-powered Fake News Detection Web Application"
             speed={40}
             delay={600}
-            highlightWords={["Fake News"]}
+            highlightWords={["AI-powered", "Fake News"]}
           />
         </h1>
 
@@ -53,6 +53,15 @@ const HeroSection = () => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 3 }}
+          className="text-xl md:text-2xl text-primary font-display font-semibold mb-6 max-w-2xl mx-auto"
+        >
+          Detect Fake News With 97% Accuracy
+        </motion.p>
+
+        <motion.p
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 3.5 }}
           className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto mb-10 font-body"
         >
           Our AI model classifies news as <strong className="text-foreground">Real</strong> or{" "}

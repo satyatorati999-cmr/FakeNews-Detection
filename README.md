@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [System Architecture](#-system-architecture)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Satya Rama Krishna Torati is a web-based fake news detection system designed to combat the growing threat of misinformation in digital media. The platform allows users to paste any news article or text, and within seconds receives a comprehensive credibility analysis powered by state-of-the-art AI.
 
@@ -44,7 +44,7 @@ Satya Rama Krishna Torati provides instant, AI-powered credibility analysis with
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -96,7 +96,7 @@ Satya Rama Krishna Torati provides instant, AI-powered credibility analysis with
 
 ---
 
-## 🤖 AI Model & Classification Engine
+##  AI Model & Classification Engine
 
 ### Model: Google Gemini 2.5 Flash
 
@@ -134,7 +134,7 @@ Classification Rules:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 ### Kaggle Fake and Real News Dataset
 
@@ -177,7 +177,7 @@ Raw Text
 
 ---
 
-## 📐 8-Dimension Scoring System
+##  8-Dimension Scoring System
 
 Every analysis produces scores across 8 independent dimensions:
 
@@ -200,7 +200,7 @@ Every analysis produces scores across 8 independent dimensions:
 
 ---
 
-## 🔄 Analysis Pipeline
+##  Analysis Pipeline
 
 The 6-stage verification pipeline processes every submitted article:
 
@@ -243,7 +243,7 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -280,25 +280,25 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### Core Features
 
-- **🔍 Real-Time Analysis** — Paste any news text and get instant AI-powered credibility assessment
-- **📊 8-Dimension Scoring** — Comprehensive scoring across emotional, clickbait, conspiracy, propaganda, medical, credibility, balance, and structural dimensions
-- **🎯 Binary Classification** — Clear "Real News" or "Fake News" verdict with confidence percentage
-- **💬 AI Chatbot** — Streaming assistant for questions about fake news, media literacy, and the detection system
-- **📝 Claim-Level Analysis** — Individual claims extracted and evaluated with per-claim credibility reasoning
-- **⚠️ Signal Word Detection** — Highlighted suspicious words and phrases with weight scores
+- ** Real-Time Analysis** — Paste any news text and get instant AI-powered credibility assessment
+- ** 8-Dimension Scoring** — Comprehensive scoring across emotional, clickbait, conspiracy, propaganda, medical, credibility, balance, and structural dimensions
+- ** Binary Classification** — Clear "Real News" or "Fake News" verdict with confidence percentage
+- ** AI Chatbot** — Streaming assistant for questions about fake news, media literacy, and the detection system
+- ** Claim-Level Analysis** — Individual claims extracted and evaluated with per-claim credibility reasoning
+- ** Signal Word Detection** — Highlighted suspicious words and phrases with weight scores
 
 ### UI/UX Features
 
-- **🌊 Scroll Animations** — Framer Motion-powered entrance animations on every section
-- **🎨 Glassmorphism Design** — Dark cyberpunk aesthetic with glowing accents and glass-effect cards
-- **📱 Responsive Layout** — Fully responsive across desktop, tablet, and mobile
-- **🔤 Typewriter Effect** — Animated hero text for engaging first impressions
-- **🌐 Particle Network** — Interactive background animation
-- **📈 Live Statistics** — Animated counters showing platform metrics
+- ** Scroll Animations** — Framer Motion-powered entrance animations on every section
+- ** Glassmorphism Design** — Dark cyberpunk aesthetic with glowing accents and glass-effect cards
+- ** Responsive Layout** — Fully responsive across desktop, tablet, and mobile
+- ** Typewriter Effect** — Animated hero text for engaging first impressions
+- ** Particle Network** — Interactive background animation
+- ** Live Statistics** — Animated counters showing platform metrics
 
 ### Pages
 
@@ -311,7 +311,7 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── public/
@@ -391,7 +391,7 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
 - **End-to-end encryption**: All data transmitted over HTTPS
 - **No data storage**: User-submitted text is never stored or logged
@@ -402,7 +402,7 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -417,7 +417,7 @@ Stage 6: RESULT & REASONING
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -455,7 +455,7 @@ The following environment variables are auto-configured by Lovable Cloud:
 ---
 ---
 
-## 📄 License
+##  License
 
 This project was built as an academic final-year project for AI-powered misinformation detection research.
 
